@@ -1,5 +1,6 @@
 <h1>Mock10 Backend</h1>
 The task is to create backend for a Air Ticket booking system that allows users to book flights for their desired destinations.
+The system is built using Node.js, Express.js, and MongoDB as the backend stack.
 <br/>
 <h3>Backend Link:</h3>https://viridian-earthworm-cape.cyclic.app/
 <hr/>
