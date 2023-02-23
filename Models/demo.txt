@@ -1,0 +1,13 @@
+{
+  "airline": "king",
+  "flightNo": "AI0001",
+  "departure": "DEL",
+  "arrival": "PUNE",
+  "departureTime": "2023-02-21T13:34:00.000",
+  "arrivalTime": "2023-02-21T16:34:00.000",
+  "seats": 8,
+  "price": 3000
+}
+
+
+63f70d07d54efb6e7752edb0
