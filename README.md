@@ -6,6 +6,12 @@
 
 | METHOD | 	ENDPOINT | DESCRIPTION |
 | --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+| POST | /api/register | This endpoint should allow users to register. |
+| POST | /api/login | This endpoint should allow users to login. |
+| GET | /api/flights | This endpoint should return a list of all available flights. |
+| GET | /api/flights/:id | This endpoint should return the details of a specific flight identified by its ID. |
+| POST | /api/flights | This endpoint should allow users to add new flights to the system. |
+| PUT / PATCH | /api/flights/:id | This endpoint should allow users to add new flights to the system. |
+| DELETE | /api/flights/:id | This endpoint should allow users to delete a specific flight identified by its ID. |
+| POST | /api/booking | This endpoint should allow the user to book flights. |
+| GET | /api/dashboard | This point should list all the bookings so far with the user and flight details. |
